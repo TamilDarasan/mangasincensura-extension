@@ -1,0 +1,1 @@
+# mangasincensura-extension
