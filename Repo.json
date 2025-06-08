@@ -1,0 +1,10 @@
+{
+  "name": "Manga sin censura",
+  "version": "1.0",
+  "apk": "mangasincensura-v1.0.apk",
+  "lang": "en",
+  "id": "mangasincensura.en",
+  "pkg": "eu.kanade.tachiyomi.extension.en.mangasincensura",
+  "icon": "",
+  "description": "Unofficial extension for mangasincensura.com (Madara)"
+}
